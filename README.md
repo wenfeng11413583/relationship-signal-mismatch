@@ -1,2 +1,75 @@
-# relationship-signal-mismatch
-A framework for understanding intimate relationship signal mismatches: event memory vs feeling memory.
+# 亲密关系中的信号错位
+
+这是一个围绕“亲密关系中的信号错位”展开的认知框架与文章草稿，核心关注：
+
+- 一方记住的是感受，另一方记住的是事件；
+- 两个人对“记住”“在乎”“沟通”的定义不同；
+- 冲突很多时候不是因为爱消失，而是因为关系中的信号编码不同；
+- 在大量现实关系中，双方都在用自己的语言解释彼此，却常常对不上频道。
+
+中文主文档：
+- [docs/relationship-signal-mismatch.md](docs/relationship-signal-mismatch.md)
+
+英文对照版：
+- [README.en.md](README.en.md)
+- [docs/relationship-signal-mismatch.en.md](docs/relationship-signal-mismatch.en.md)
+
+## 这个框架的目标
+
+不是给出“谁对谁错”的答案，也不是推导一个万能的婚姻结论。
+
+它的目标是帮助人看清：
+
+- 关系中的误解，往往并不是因为一方故意不在乎；
+- 很多时候是双方在不同的频道上传递与解读关系信号；
+- 认知差异会放大冲突，而情绪放大误会。
+
+## 适用范围
+
+适合观察和理解：
+
+- 夫妻之间反复误解；
+- 恋人之间“你不懂我，我也不懂你”；
+- 伴侣之间“我做了很多，但你还是觉得我不在乎”；
+- 情绪表达和现实责任冲突导致的关系错位。
+
+不适合直接替代：
+
+- 暴力控制；
+- 长期忽视；
+- 欺骗与操控；
+- 反复伤害却拒绝承担责任的关系。
+
+## 这个项目的基本立场
+
+我们坚持这样的思路：
+
+- 适用于大多数关系，适用于观察模式；
+- 适用不到时，不要强行套用；
+- 不做“给人贴标签”；
+- 不把一切问题都归因于“认知差异”；
+- 重点在于看清机制，而不是推定结论。
+
+## 仓库结构
+
+```text
+.
+├── README.md
+├── README.en.md
+├── docs/
+│   ├── relationship-signal-mismatch.md
+│   └── relationship-signal-mismatch.en.md
+└── LICENSE
+```
+
+## 说明
+
+这是一个正在演进中的关系认知文档草稿，中文为主，英文为对照版。内容旨在帮助人理解亲密关系中的记忆差异、情感期待和信号错位，而不是替任何人下定论。
+
+如果你希望继续扩展这个项目，可以考虑加入：
+
+- 适用案例；
+- 简化版自检清单；
+- 术语解释；
+- 公开讨论与边界说明；
+- 更完整的结构化框架。
